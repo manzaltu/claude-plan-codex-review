@@ -1,0 +1,6 @@
+{
+  "name": "claude-plan-codex-review",
+  "description": "Second-opinion plan review gate for Claude Code using Codex",
+  "version": "1.0.0",
+  "hooks": "./hooks/hooks.json"
+}
